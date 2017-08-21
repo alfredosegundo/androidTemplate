@@ -1,4 +1,4 @@
-package com.example.asegundo.example;
+package com.example.asegundo.androidtemplate;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.asegundo.example;
+package com.example.asegundo.androidtemplate;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

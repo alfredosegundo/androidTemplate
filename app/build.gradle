@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.0"
     defaultConfig {
-        applicationId "com.example.asegundo.example"
+        applicationId "com.example.asegundo.androidtemplate"
         minSdkVersion 26
         targetSdkVersion 26
         versionCode 1
